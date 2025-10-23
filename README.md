@@ -1,3 +1,47 @@
+# 👋 Hi, I'm T.Shingo
+
+> 「車輪の再発明上等」– I reinvent to understand.  
+> 「8086時代のシンプルな美学」– I love low-layer simplicity.  
+>  「限界を超える技術好奇心」– I build OSes, networks, and GPUs from the ground up.
+
+---
+
+## 🚀 About Me
+
+| 項目 | 内容 |
+|------|------|
+| 所属 | 情報工学科の大学生 |
+| 興味分野 | OS開発 / 低レイヤープログラミング / ARM64 / UEFI / GPU (CUDA) |
+| スタイル | 高速・軽量・再発明志向 / ライブラリ依存を避けた理解ベースの開発 |
+| 使用言語 | C / C++ / ARM64 ASM / Python / CUDA C / JavaScript / SQL / Java(Android App) |
+| エディタ | VSCode |
+| 信条 | 「動くコードこそ最高の教材」|
+
+---
+
+## 🛠️ What I Build
+
+| 分野 | 内容 | 状況 |
+|------|------|------|
+| 🧠 OS開発 (ARM64 / Raspberry Pi 4) | UART / タスクスケジューラ / コンテキストスイッチ / 割り込み / SMP / 仮想メモリに拡張予定 | 開発中 |
+| 📦 軽量Linuxライク教育OS(卒業研究) | 「ブラックボックスを透明化する教育用OS」を構想 | 開発中 |
+| ⚡ CUDA + OpenGL | 二足歩行ロボット / スフィア攻撃 / アニメーション制御ゲーム | 完成済み |
+| 🌐 SecProNexus(学内SNS) | Flask + MySQL + Vue.js + etc... / 学内SNS + CTF + e-Learning統合プラットフォーム | 要件定義・設計中 |
+| 📱 Android | ローカルメディア日記アプリ / 画像・動画・音声サポート | 仮完成 |
+
+---
+
+## 🔍 Core Technologies I Love
+
+```
+CPU      : ARM64 (Raspberry Pi 4), x86 (UEFI), RISC-V (参考)
+GPU      : CUDA for physics/animation
+Memory   : Stack/Heap/EL分離, 仮想メモリ実装予定
+Network  : TCP/UDP自作プロトコル, P2P Routing
+Security : 学内CTF問題作成 (XSS, SQLi, ARP偽装, SPN暗号)
+Web      : Flask + MySQL + Jinja2 + Vanilla JS / PWA構想
+```
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tachi-Shin&show_icons=true&theme=radical)
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
